@@ -89,6 +89,10 @@ h1 {
   margin-left: auto;
 }
 
+.vote-buttons button {
+  background-color: #57534e;
+}
+
 ul {
   list-style: none;
 }
